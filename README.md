@@ -3,7 +3,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico e tem como ob
 
 ## Projeto: "Gestão de Funcionários"
 
-Este projeto foi desenvolvido como parte de um trabalho acadêmico da minha pós graduação.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico da minha pós graduação e achei interessante salvar ele aqui para servir como referência para outros estudantes.
 ## Design do Esquema
 
 O esquema consiste nas seguintes tabelas:
