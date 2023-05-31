@@ -1,9 +1,6 @@
 # Sistema de Gerenciamento de Funcionários - Documentação do Banco de Dados
-Este projeto foi desenvolvido como parte de um trabalho acadêmico e tem como objetivo demonstrar o conhecimento em SQL Server e boas práticas de desenvolvimento de banco de dados. O projeto consiste em um sistema de gerenciamento de funcionários, no qual é possível realizar operações CRUD, executar consultas complexas e gerar relatórios.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico e tem como objetivo demonstrar o conhecimento em SQL Server e boas práticas de desenvolvimento de banco de dados,  achei interessante salvar ele aqui para servir como referência para outros estudante. O projeto consiste em um sistema de gerenciamento de funcionários, no qual é possível realizar operações CRUD, executar consultas complexas e gerar relatórios.
 
-## Projeto: "Gestão de Funcionários"
-
-Este projeto foi desenvolvido como parte de um trabalho acadêmico da minha pós graduação e achei interessante salvar ele aqui para servir como referência para outros estudantes.
 ## Design do Esquema
 
 O esquema consiste nas seguintes tabelas:
